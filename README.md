@@ -1,14 +1,9 @@
-# bellroyrobotsim
+# Robot Sim
 
-This template should help get you started developing with Vue 3 in Vite.
+## IDE Used
 
-## Recommended IDE Setup
+[JetBrains WebStorm](https://www.jetbrains.com/webstorm/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
