@@ -1,8 +1,9 @@
-# Robot Sim
+# vueBot Grid Simultor
 
-## IDE Used
+## Colophon
 
-[JetBrains WebStorm](https://www.jetbrains.com/webstorm/)
+- Writen in [Vue.js](https://vuejs.org)
+- IDE Used [JetBrains WebStorm](https://www.jetbrains.com/webstorm/)
 
 
 ## Project Setup
