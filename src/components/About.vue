@@ -2,7 +2,7 @@
 <template>
   <div class="about-container">
     <p><strong>Help the robot navigate the grid by using the controls.</strong></p>
-    <p>Built using Vue.js for Bellroy Front End Developer Job Application</p>
+    <p>Built using Vue.js, using JetBrains WebStorm IDE.</p>
   </div>
 </template>
 
